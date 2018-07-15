@@ -1,3 +1,6 @@
+# stupid import just to test how requirement installation works with travis
+import numpy as np
+
 def func(arg1, arg2):
     """This is an example documented function.
     
